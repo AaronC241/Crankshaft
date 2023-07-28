@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Random/admin_panel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Black book Project",
+		"livePreview.defaultPreviewPath": "/index.html"
+	}
+}
